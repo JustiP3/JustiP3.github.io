@@ -1,11 +1,11 @@
 # Site settings
 author: Justin Phillips
-title: 
+title: Justin is Learning
 header-img: img/home-bg.png
 email: justinphil02@yahoo.com
 copyright_name: Justin Phillips
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about my learning journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JustiP3
