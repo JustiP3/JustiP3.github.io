@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What in the world is an iterator? "
-date:       2019-10-31 01:57:38 +0000
+date:       2019-10-30 21:57:39 -0400
 permalink:  what_in_the_world_is_an_iterator
 ---
 
