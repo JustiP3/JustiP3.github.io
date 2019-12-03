@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Ruby Gem - Your Favorite Artist"
-date:       2019-12-03 20:41:17 +0000
+date:       2019-12-03 15:41:18 -0500
 permalink:  cli_ruby_gem_-_your_favorite_artist
 ---
 
